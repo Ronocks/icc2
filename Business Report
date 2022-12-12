@@ -1,0 +1,19 @@
+Business Report
+By Conor McPhillips
+
+Background of Enterprise
+For the business of my choice, I decided to assist in the networking of a small sword-forging shop in Dublin. This is a store that specializes in the forging of swords ranging from those in a catalogue of different periods to special requests. It is a family-run business that has been passed down for generations.
+
+Current IT setup
+The youngest son of this business is desperate to upgrade their catalogue and market system for their little store. A few years back, his father hired someone to install a non-cloud server for product management and order management, which was a total pain to keep up with. Non-cloud servers are expensive to run with setup, running, and repair costs. This was a lot different than a few years before when they relied on pen, paper, and a product book in the store.
+
+Recommendations 
+It was my suggestion to move towards cloud where all these downfalls can be resolved as the cloud is both cheaper and easier to run. Also, most of their orders would have to be accessed in-store, where cloud could allow them to access it anywhere. To achieve this, we start at the service level and deployment type appropriate for their small business. I went with a platform as a service (Paas) as with a lack of server knowledge in the family, a platform means the family won’t have to build their own cloud and can make changes over the internet and easily control their apps. As for deployment type private should do as only one store exists as well as providing the highest level of cyber security. Cyber security is stronger with cloud than non-cloud which will prevent hacking and malware attacks that can leak customer or financial information. In the long run, cloud computing is cost-effective as compared to non-cloud.  It reduces overall capital expenditure while maximizing efficiency and productivity.
+
+Referencing
+Raffi (2019), ‘Differences between a Cloud-based vs. Non-Cloud based system’ at  https://support.smartsourcedit.com/hc/en-us/articles/360043699754-Differences-between-a-Cloud-based-vs-Non-Cloud-based-system#:~:text=A%20cloud-based%20system%20is%20generally%20simpler%20than%20a,into%20the%20extent%20of%20their%20security%2Frisk%20mitigation%20practices. – Smart Sourced IT, accessed: 2/12/2022
+
+Ecourse (2018),’On-premise Vs Cloud Computing-Pros and Cons Comparison’ at  https://youtu.be/KVydGQGR1Lo, accessed: 5/12/2022
+ 
+
+ 
